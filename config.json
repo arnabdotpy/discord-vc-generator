@@ -1,0 +1,5 @@
+{
+    "token": "Token here",
+    "channel": "channelID (int)",
+    "category": "categoryID (int)"
+}
