@@ -2,7 +2,7 @@
 # Discord VC Generation Bot
 This python script based on discord.py which allows you to create discord voice channels on the go which gets deleted when everyone leaves the vc and the vc gets empty.
 
- 🚀 You can ⭐ this repo if you find this use full for your discord server. 
+ 🚀 You can ⭐ this repo if you find this useful for your discord server. 
 ## Run The Script
 
 
@@ -10,7 +10,7 @@ Configure `config.json`
 
 ```bash
   {
-    "token": "addyourdbottokenhere",
+    "token": "you_bot_token_here,
     "channel": 990246407887XXXXXX,
     "category": 870569337856XXXXXX
   }
